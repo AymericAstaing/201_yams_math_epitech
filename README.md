@@ -38,4 +38,10 @@ DESCRIPTION
     d5 value of the fifth die (0 if not thrown)
     c expected combination
     
+EXAMPLE
+
+    shell> ./201yams 1 2 3 4 5 four_4
+    
+           chances to get a 4 four-of-a-kind: 1.62%
+    
 Aymeric Astaing - EPITECH PARIS PROMO 2022

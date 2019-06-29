@@ -1,10 +1,11 @@
 # 201_yams_math_epitech (tech 2 2018/2019)
 
-compute the probabilities of combinations of independent events
+Compute the probabilities of combinations of independent events
 
 The goal of this project is to code a software that help us cheat at Yams game. 
 
-    It will give you the chances to obtain a given combination at the next dice roll, among:
+It will give you the chances to obtain a given combination at the next dice roll, among:
+
       • a pair (at least 2 dice of the same value)
       • a three-of-a-kind (at least 3 dice of the same value)
       • a four-of-a-kind (at least 4 dice of the same value)

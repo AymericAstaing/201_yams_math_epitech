@@ -1,4 +1,4 @@
-# 201_yams_math_epitech (tech 2 2018/2019)
+# 201_yams_math_epitech
 
 Compute the probabilities of combinations of independent events
 
@@ -43,5 +43,3 @@ EXAMPLE
     shell> ./201yams 1 2 3 4 5 four_4
     
            chances to get a 4 four-of-a-kind: 1.62%
-    
-Aymeric Astaing - EPITECH PARIS PROMO 2022
